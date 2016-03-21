@@ -2,6 +2,6 @@ package git_demo;
 
 public class Test2 {
     public static void main(String[] args) {
-        System.out.println("Ôö¼ÓÒ»¸ö²âÊÔÀà£¡");
+        System.out.println("åˆå¢åŠ äº†ä¸€ä¸ªæµ‹è¯•ç±»ï¼");
     }
 }
